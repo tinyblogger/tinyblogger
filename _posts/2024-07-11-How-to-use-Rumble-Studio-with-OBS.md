@@ -2,9 +2,8 @@
 layout: post
 title: How to use Rumble Studio with OBS (Ingresses)
 date: 2024-07-11
-thumbnail: /images/Post-Thumbnails/Rumble Studio + OBS.png
 ---
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Stream Dashboard.png)
+![_config.yml]({{ site.baseurl }}/images/Post-Thumbnails/Rumble Studio + OBS.png)
 Today I'll be showing You how to Link Rumble Studio and Open-Broadcaster-Software (OBS) together! to be able to use Rumble Studio alongside Your Streaming!
 
 ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Home Page.png)
