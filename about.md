@@ -5,7 +5,7 @@ permalink: /about/
 date: 2024-07-12
 ---
 
-## Welcome to TinyPlayersS Blog!
+## Welcome to Tinyplayerss Blog!
 
 On this blog, I provide information about streaming and the latest Rumble news. If you ever want to know the limits of Rumble or need streaming tips, look no further than this blog!
 
