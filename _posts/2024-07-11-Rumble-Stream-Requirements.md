@@ -4,7 +4,7 @@ title: Rumble Stream Requirements (OBS)
 date: 2024-07-11
 ---
 
-![Rumble Stream Requirements](/images/Post-Thumbnails/Rumble_Stream_Requirements.png)
+![Rumble Stream Requirements](/images/Post-Thumbnails/Rumble-Stream-Requirements.png)
 
 In this guide, I'll show you the best settings for starting streaming on Rumble using OBS Studio.
 
@@ -28,7 +28,7 @@ Now that our software is installed, open a new tab with our [previous blog post]
 
 ### Configuring OBS Settings
 
-![Video Tab](/images/Rumble-Stream-Requirements-images/Video_Tab.png)
+![Video Tab](/images/Rumble-Stream-Requirements-images/Video-Tab.png)
 
 1. **Video Settings:**
    - In OBS, go to Settings > Video.
@@ -36,7 +36,7 @@ Now that our software is installed, open a new tab with our [previous blog post]
    - Set Output Resolution to 1080p or lower if your PC struggles to keep up.
    - Set FPS (Frames Per Second) to either 60 FPS or 30 FPS depending on your computer's capabilities.
 
-![Output Tab](/images/Rumble-Stream-Requirements-images/Output_Tab.png)
+![Output Tab](/images/Rumble-Stream-Requirements-images/Output-Tab.png)
 
 2. **Output Settings:**
    - Switch to the Output tab and change Output Mode from Simple to Advanced.
@@ -51,7 +51,7 @@ Now that our software is installed, open a new tab with our [previous blog post]
      - Profile: High or Main.
      - Max B-frames: Set to 3.
 
-![Advanced Tab](/images/Rumble-Stream-Requirements-images/Advanced_Tab.png)
+![Advanced Tab](/images/Rumble-Stream-Requirements-images/Advanced-Tab.png)
 
 3. **Advanced Settings:**
    - Navigate to the Advanced tab.
