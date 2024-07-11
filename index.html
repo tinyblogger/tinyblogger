@@ -5,8 +5,16 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
+      {% if post.thumbnail %}
+        <div class="post-thumbnail">
+          <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
+        </div>
+      {% endif %}
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="post-date">
+        {{ post.date | date: "%B %d, %Y" }}
+      </div>
 
       <div class="entry">
         {{ post.excerpt }}
