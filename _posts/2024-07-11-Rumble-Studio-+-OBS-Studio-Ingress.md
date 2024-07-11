@@ -16,17 +16,22 @@ Next Click on "Stream now" button and select Your Template or Skip this step.
 ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select Stream Now.png)
 ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select a Template or Skip.png)
 
-Once You've Created or Selected a Template You'll be Asked a Couple of Permissions 1. Your Webcam, 2. Your Microphone, These are Optional and aren't Required for Using Rumble Studio.
+Once You've Created or Selected a Template Your Dashboard will look like this.
+
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Dashboard.png)
+
+be Asked a Couple of Permissions 1. Your Webcam, 2. Your Microphone, These are Optional and aren't Required for Using Rumble Studio.
 
 ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Web Permissions.png)
 
 Now Click on "Manage participants" at the bottom Next to the Screen share icon.
 
 ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Manage Participants Step.png)
+
+Then Select "Ingresses" tab at the top Right of the "Manage participants" Window.
+
 ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select Ingress Tab and Create ingress.png)
 
-Then "Click Ingress" tab at the top Right of the "Manage participants" Window, Select "Create new ingress" Select WHIP (Recommended) or RTMP These both Work the Recommended is what Rumble Studio Recommends, After Selecting Ingress type of Your choosing, Give it a Name I Would call it "OBS Studio" But this field is Optional.
+Select "Create new ingress" Choose an Ingress type? "WHIP (Recommended)" or "RTMP" Both are valid choices, And only affects the Streaming Server.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Create new ingress.png)
