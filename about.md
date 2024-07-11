@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+On this Blog Site I provide information about Streaming and Rumble News so if You ever Wanna know the Limits of Rumble?! look no further then this Blog!
 
+Follow my [Rumble](https://rumble.com/c/tinyplayerss) I Stream and Provide Visual Guides!
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Coming Soon
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tinyplayerss@gmail.com](mailto:tinyplayerss@gmail.com)
