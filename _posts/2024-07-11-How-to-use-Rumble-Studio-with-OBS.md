@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumble Studio + OBS Studio Ingress
+title: How to use Rumble Studio with OBS (Ingresses)
 ---
 
 In this Guide I'll be Showing You Rumblers how to Stream with OBS Studio on Rumble Studio!
@@ -35,3 +35,13 @@ Then Select "Ingresses" tab at the top Right of the "Manage participants" Window
 Select "Create new ingress" Choose an Ingress type? "WHIP (Recommended)" or "RTMP" Both are valid choices, And only affects the Streaming Server.
 
 ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Create new ingress.png)
+
+Now that we Got our Ingress Named and Created Now copy the Given information details to your OBS Studio.
+
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Stream tab OBS Server and Key Details.png)
+
+Open OBS Studio Go to Settings>Stream Now Paste the Stream URL Given from your Ingress to the Server field and Key which is The one with the Dots in the Bearer Token field DO NOT SHARE THIS KEY TO ANYONE.
+
+If You'd like to know whats the Difference between WHIP and RTMP Click [here](https://castr.com/blog/rtmp-vs-rtmps-which-streaming-protocol-is-right-for-you/) to Read about it.
+
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Stream tab OBS Server and Key Details.png)
