@@ -4,47 +4,66 @@ title: How to use Rumble Studio with OBS (Ingresses)
 date: 2024-07-11
 ---
 ![_config.yml]({{ site.baseurl }}/images/Post-Thumbnails/Rumble Studio + OBS.png)
-Today I'll be showing You how to Link Rumble Studio and Open-Broadcaster-Software (OBS) together! to be able to use Rumble Studio alongside Your Streaming!
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Home Page.png)
+## Introduction
 
-To Get started head over to [Rumble Studio](https://studio.rumble.com) and Sign in using your Rumble Account Once Signed-in, You'll be Greeted by the Rumble Studio Dashboard.
+In this guide, I'll show you how to link Rumble Studio with Open Broadcaster Software (OBS) to enhance your streaming experience on Rumble. Follow these steps to seamlessly integrate Rumble Studio with OBS.
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Stream Dashboard.png)
+---
 
-Next Click on "Stream now" button and select Your Template or Skip this step.
+## Getting Started
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select Stream Now.png)
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select a Template or Skip.png)
+1. **Sign in to Rumble Studio:**
+   - Head over to [Rumble Studio](https://studio.rumble.com) and sign in using your Rumble account. Once signed in, you'll be greeted by the Rumble Studio Dashboard.
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Home Page.png)
+   
+2. **Start a New Stream:**
+   - Click on the "Stream Now" button and select your template or skip this step.
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select Stream Now.png)
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select a Template or Skip.png)
+   
+   - Once you've created or selected a template, your dashboard will look like this:
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Dashboard.png)
 
-Once You've Created or Selected a Template Your Dashboard will look like this.
+3. **Webcam and Microphone Permissions:**
+   - You may be asked for permissions to access your webcam and microphone. These are optional and not required for using Rumble Studio.
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Web Permissions.png)
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Dashboard.png)
+---
 
-be Asked a Couple of Permissions 1. Your Webcam, 2. Your Microphone, These are Optional and aren't Required for Using Rumble Studio.
+## Configuring Ingress in Rumble Studio
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Web Permissions.png)
+1. **Manage Participants:**
+   - Click on "Manage participants" at the bottom next to the screen share icon.
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Manage Participants Step.png)
 
-Now Click on "Manage participants" at the bottom Next to the Screen share icon.
+2. **Select Ingress Tab:**
+   - In the "Manage participants" window, select the "Ingresses" tab at the top right.
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select Ingress Tab and Create ingress.png)
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Manage Participants Step.png)
+3. **Create a New Ingress:**
+   - Click on "Create new ingress" and choose an ingress type: "WHIP (Recommended)" or "RTMP". Both are valid choices and only affect the streaming server.
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Create new ingress.png)
 
-Then Select "Ingresses" tab at the top Right of the "Manage participants" Window.
+4. **Copy Ingress Details to OBS:**
+   - After naming and creating your ingress, copy the given information details to your OBS Studio.
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Copy this information to OBS.png)
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select Ingress Tab and Create ingress.png)
+---
 
-Select "Create new ingress" Choose an Ingress type? "WHIP (Recommended)" or "RTMP" Both are valid choices, And only affects the Streaming Server.
+## Configuring OBS Studio
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Create new ingress.png)
+1. **Open OBS Settings:**
+   - Open OBS Studio, go to Settings > Stream.
+   - Paste the Stream URL given from your ingress into the Server field.
+   - Paste the Key (the one with the dots) into the Bearer Token field. DO NOT SHARE THIS KEY WITH ANYONE.
+   ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Stream tab OBS Server and Key Details.png)
 
-Now that we Got our Ingress Named and Created Now copy the Given information details to your OBS Studio.
+2. **Additional Information:**
+   - If you'd like to know the difference between WHIP and RTMP, click [here](https://castr.com/blog/rtmp-vs-rtmps-which-streaming-protocol-is-right-for-you/) to read more about it.
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Copy this information to OBS.png)
+---
 
-Open OBS Studio Go to Settings>Stream Now Paste the Stream URL Given from your Ingress to the Server field and Key which is The one with the Dots in the Bearer Token field DO NOT SHARE THIS KEY TO ANYONE.
+## Conclusion
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Stream tab OBS Server and Key Details.png)
-
-If You'd like to know whats the Difference between WHIP and RTMP Click [here](https://castr.com/blog/rtmp-vs-rtmps-which-streaming-protocol-is-right-for-you/) to Read about it.
-
-Thanks for Reading this Blog be sure to Check out my Other [Blogs](https://tinyplayerss.github.io)
+Thanks for reading this guide! Be sure to check out my other [blogs](https://tinyplayerss.github.io) for more helpful tips and tutorials.
