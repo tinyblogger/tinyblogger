@@ -42,6 +42,8 @@ Now that we Got our Ingress Named and Created Now copy the Given information det
 
 Open OBS Studio Go to Settings>Stream Now Paste the Stream URL Given from your Ingress to the Server field and Key which is The one with the Dots in the Bearer Token field DO NOT SHARE THIS KEY TO ANYONE.
 
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Stream tab OBS Server and Key Details.png)
+
 If You'd like to know whats the Difference between WHIP and RTMP Click [here](https://castr.com/blog/rtmp-vs-rtmps-which-streaming-protocol-is-right-for-you/) to Read about it.
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Stream tab OBS Server and Key Details.png)
+Thanks for Reading this Blog be sure to Check out my Other [Blogs](https://tinyplayerss.github.io)
