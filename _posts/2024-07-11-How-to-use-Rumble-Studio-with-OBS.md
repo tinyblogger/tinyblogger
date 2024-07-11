@@ -38,7 +38,7 @@ Select "Create new ingress" Choose an Ingress type? "WHIP (Recommended)" or "RTM
 
 Now that we Got our Ingress Named and Created Now copy the Given information details to your OBS Studio.
 
-![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Stream tab OBS Server and Key Details.png)
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Copy this information to OBS.png)
 
 Open OBS Studio Go to Settings>Stream Now Paste the Stream URL Given from your Ingress to the Server field and Key which is The one with the Dots in the Bearer Token field DO NOT SHARE THIS KEY TO ANYONE.
 
