@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use Rumble Studio with OBS (Ingresses)
+title: Rumble Stream Requirements (OBS)
 date: 2024-07-11
 ---
 ![_config.yml]({{ site.baseurl }}/images/Post-Thumbnails/Rumble Stream Requirements.png)
