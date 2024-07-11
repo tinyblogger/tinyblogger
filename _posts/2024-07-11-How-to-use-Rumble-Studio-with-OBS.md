@@ -47,3 +47,5 @@ Open OBS Studio Go to Settings>Stream Now Paste the Stream URL Given from your I
 If You'd like to know whats the Difference between WHIP and RTMP Click [here](https://castr.com/blog/rtmp-vs-rtmps-which-streaming-protocol-is-right-for-you/) to Read about it.
 
 Thanks for Reading this Blog be sure to Check out my Other [Blogs](https://tinyplayerss.github.io)
+
+comments_id: 35
