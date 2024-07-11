@@ -4,7 +4,7 @@ title: Rumble Stream Requirements (OBS)
 date: 2024-07-11
 ---
 ![_config.yml]({{ site.baseurl }}/images/Post-Thumbnails/Rumble Stream Requirements.png)
-Today I'll be showing You how to Link Rumble Studio and Open-Broadcaster-Software (OBS) together! to be able to use Rumble Studio alongside Your Streaming!
+In this Guide I'll be Showing You the Best Settings for Starting out with Streaming on Rumble.
 
 First off I hear You 'What requirements do i need for Streaming on Rumble?!' Oh deer Reader I almost Forgot, Here's a Breakdown of what we Need to Stream on Rumble.
 
