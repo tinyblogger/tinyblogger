@@ -23,6 +23,7 @@ Once You've Created or Selected a Template You'll be Asked a Couple of Permissio
 Now Click on "Manage participants" at the bottom Next to the Screen share icon.
 
 ![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Manage Participants Step.png)
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Select Ingress Tab and Create ingress.png)
 
 Then "Click Ingress" tab at the top Right of the "Manage participants" Window, Select "Create new ingress" Select WHIP (Recommended) or RTMP These both Work the Recommended is what Rumble Studio Recommends, After Selecting Ingress type of Your choosing, Give it a Name I Would call it "OBS Studio" But this field is Optional.
 
