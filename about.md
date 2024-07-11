@@ -14,3 +14,8 @@ Coming Soon
 ### Contact me
 
 [tinyplayerss@gmail.com](mailto:tinyplayerss@gmail.com)
+
+### Support me Financially Need to make Rent this Month!
+
+[Ko-fi tinyplayerss](https://ko-fi.com/tinyplayerss)
+[PayPal tinyplayerss](https://paypal.me/2players1Gamer)
