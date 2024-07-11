@@ -2,7 +2,7 @@
 layout: post
 title: How to use Rumble Studio with OBS (Ingresses)
 date: 2024-07-11
-thumbnail: /images/Rumble-Studio-images/Rumble Studio Dashboard.png
+thumbnail: /images/Rumble-Studio-images/ingress/Rumble Studio Dashboard.png
 ---
 
 In this Guide I'll be Showing You Rumblers how to Stream with OBS Studio on Rumble Studio!
