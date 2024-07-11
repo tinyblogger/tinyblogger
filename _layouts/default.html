@@ -13,6 +13,9 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   </head>
 
   <body>
@@ -42,6 +45,13 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+
+          <!-- Add this block for Ko-fi icon -->
+          {% if site.footer-links.kofi %}
+          <a href="https://ko-fi.com/{{ site.footer-links.kofi }}" title="Ko-fi" target="_blank">
+            <i class="fa fa-coffee"></i> <!-- Using a coffee cup icon for Ko-fi -->
+          </a>
+          {% endif %}
         </footer>
       </div>
     </div>
