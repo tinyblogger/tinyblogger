@@ -5,7 +5,13 @@ title: Rumble Studio + OBS Studio Ingress
 
 In this Guide I'll be Showing You Rumblers how to Stream with OBS Studio on Rumble Studio!
 
-To Get started head over to [Rumble Studio](https://studio.rumble.com) and Sign in using your Rumble Account Once Signed-in, You'll be Greeted by the Rumble Studio Dashboard, Next Click on "Stream now" button select Your Template or Skip, Once You've Created or Selected a Template You'll be Asked a Couple of Permissions 1. Your Webcam, 2. Your Microphone, These are Optional and aren't Required for Using Rumble Studio.
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Home Page.png)
+
+To Get started head over to [Rumble Studio](https://studio.rumble.com) and Sign in using your Rumble Account Once Signed-in, You'll be Greeted by the Rumble Studio Dashboard, Next Click on "Stream now" button select Your Template or Skip.
+
+![_config.yml]({{ site.baseurl }}/images/Rumble-Studio-images/ingress/Rumble Studio Stream Dashboard.png)
+
+ Once You've Created or Selected a Template You'll be Asked a Couple of Permissions 1. Your Webcam, 2. Your Microphone, These are Optional and aren't Required for Using Rumble Studio.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
