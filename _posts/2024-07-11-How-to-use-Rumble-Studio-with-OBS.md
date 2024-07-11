@@ -2,7 +2,9 @@
 layout: post
 title: How to use Rumble Studio with OBS (Ingresses)
 date: 2024-07-11
-post-thumbnail: /images/Rumble-Studio-images/Rumble Studio Home Page.png
+tags: [Jekyll, Blogging, Tutorial]
+keywords: "Jekyll blog, blogging tutorial, how to use Jekyll"
+thumbnail: /images/Rumble-Studio-images/Rumble Studio Dashboard.png
 ---
 
 In this Guide I'll be Showing You Rumblers how to Stream with OBS Studio on Rumble Studio!
