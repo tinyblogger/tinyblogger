@@ -17,12 +17,14 @@ We're Gonna cover the Requirements for this Guide if You want to know how to Set
 
 Now that we Got our Software installed Open a Secondary tab of our [Previous](https://tinyplayerss.github.io/How-to-use-Rumble-Studio-with-OBS/) Blog Post about how to Link OBS Studio to Rumble Studio and come back after that.
 
+![_config.yml]({{ site.baseurl }}/images/Rumble-Stream-Requirements-images/Video Tab.png)
 Now let's work on Your Settings to use for Streaming on Rumble.
 1. Go to Settings in OBS and Select Video Tab.
     - Set Base (Canvas) to Whatever Your max Resolution is 1080p is Recommended for Streaming.
     - Set Output Resolution to 1080p as Well or Lower if your PC is Struggling to keep up.
     - Set Your FPS (Frames Per Second) to 'Common FPS Value' and set it to 60 FPS or 30 FPS (if Your PC is Slower Recommend using 30 FPS).
 
+![_config.yml]({{ site.baseurl }}/images/Rumble-Stream-Requirements-images/Output Tab.png)
 2. Select Output Tab and Set Your 'Output Mode' from Simple to Advanced.
     - Streaming Settings:
         1. (NVIDIA GPU Only) Set to 'NVENC H.264'
@@ -36,6 +38,7 @@ Now let's work on Your Settings to use for Streaming on Rumble.
         5. Profile set to High or Main.
         6. Max B-frames Set to 3
 
+![_config.yml]({{ site.baseurl }}/images/Rumble-Stream-Requirements-images/Advanced Tab.png)
 3. Select Advanced tab at the very bottom of the Settings Menu.
     - At General Settings set Process Priority from 'Normal' to 'Above Normal' this way it will Prioritize OBS for a Smooth Viewing Experience with Minimal Buffering.
 
