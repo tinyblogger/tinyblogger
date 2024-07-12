@@ -32,9 +32,9 @@ To create a template for your streams on Rumble:
 
 Custom thumbnails play a crucial role in attracting viewers to your Rumble streams. Understanding their effectiveness is key:
 
-- [How Thumbnails Impact Views](https://www.youtube.com/watch?v=example1): Explore the psychology behind effective thumbnails.
+- [How Thumbnails Impact Views](https://www.youtube.com/watch?v=mY1Ii_hZioA&pp=ygUcd2h5IHRodW1ibmFpbHMgYXJlIGltcG9ydGFudA%3D%3D): Explore the psychology behind effective thumbnails.
   
-- [Creating Click-Worthy Thumbnails](https://www.youtube.com/watch?v=example2): Learn practical tips for designing thumbnails that drive clicks.
+- [Creating Click-Worthy Thumbnails](https://www.youtube.com/watch?v=kStt1knnbxo&pp=ygUgQ3JlYXRpbmcgQ2xpY2stV29ydGh5IFRodW1ibmFpbHM%3D): Learn practical tips for designing thumbnails that drive clicks.
 
 ### Conclusion
 
