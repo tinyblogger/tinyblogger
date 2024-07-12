@@ -66,4 +66,4 @@ In this guide, I'll show you how to link Rumble Studio with Open Broadcaster Sof
 
 ## Conclusion
 
-Thanks for reading this guide! Be sure to check out my other [blogs](https://tinyplayerss.github.io) for more helpful tips and tutorials.
+Thanks for reading this guide! Be sure to check out my other [blogs](https://tinyblogger.github.io) for more helpful tips and tutorials.

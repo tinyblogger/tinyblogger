@@ -24,7 +24,7 @@ Firstly, you might be wondering, "What requirements do I need for streaming on R
 4. **Install OBS:**
    - Install OBS and launch it. Skip the wizard setup and follow this guide.
 
-Now that our software is installed, open a new tab with our [previous blog post](https://tinyplayerss.github.io/How-to-use-Rumble-Studio-with-OBS/) on how to link OBS Studio to Rumble Studio, and return here after.
+Now that our software is installed, open a new tab with our [previous blog post](https://tinyblogger.github.io/How-to-use-Rumble-Studio-with-OBS/) on how to link OBS Studio to Rumble Studio, and return here after.
 
 ### Configuring OBS Settings
 
@@ -61,4 +61,4 @@ Now that our software is installed, open a new tab with our [previous blog post]
 
 Apply your settings, restart OBS Studio, and conduct several tests to determine the optimal configuration for your setup.
 
-Thank you for reading this guide. Be sure to check out my other [blogs](https://tinyplayerss.github.io) for more streaming tips and resources.
+Thank you for reading this guide. Be sure to check out my other [blogs](https://tinyblogger.github.io) for more streaming tips and resources.
