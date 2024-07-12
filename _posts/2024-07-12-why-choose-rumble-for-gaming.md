@@ -61,6 +61,6 @@ Whether you're a casual gamer, competitive player, or content creator, Rumble of
 
 Ready to showcase your gaming skills on Rumble? Start streaming today and connect with a global audience passionate about gaming.
 
-Follow Rumble on social media for the latest updates: [Twitter](https://twitter.com/RumbleVideo) | [Facebook](https://www.facebook.com/RumbleVideo).
+Follow Rumble on social media for the latest updates: [Twitter](https://twitter.com/RumbleVideo) [Facebook](https://www.facebook.com/RumbleVideo).
 
 *Join us in championing gaming content and creativity on Rumble!*
