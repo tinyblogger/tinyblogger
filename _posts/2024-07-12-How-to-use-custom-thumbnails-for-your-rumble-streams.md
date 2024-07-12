@@ -10,6 +10,10 @@ date: 2024-07-12
 
 Creating custom thumbnails for your Rumble streams doesn't have to cost anything. You can use free tools like Photopea and GIMP to create professional-looking thumbnails easily:
 
+> Note: that Your thumbnail has to Meet these Requirements.
+> 16:9 Aspect Ratio 1920x1080 or 1280x720
+> Must be less then 5MB's
+
 1. **Photopea**: Photopea is a web-based app that works similarly to Photoshop. Visit [Photopea](https://www.photopea.com/) and start a new project. Use its tools to design your thumbnail, incorporating text, images, and effects.
 
    ![Photopea](/images/Rumble-Custom-Thumbnails/photopea.png)
