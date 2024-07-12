@@ -1,3 +1,11 @@
+---
+layout: post
+title: How to use custom thumbnails for your Rumble streams (Free Tools)
+date: 2024-07-12
+---
+
+![Rumble Custom Thumbnails](/images/Post-Thumbnails/Rumble Custom Thumbnails.png)
+
 ### Creating Custom Thumbnails Using Free Tools
 
 Creating custom thumbnails for your Rumble streams doesn't have to cost anything. You can use free tools like Photopea and GIMP to create professional-looking thumbnails easily:
