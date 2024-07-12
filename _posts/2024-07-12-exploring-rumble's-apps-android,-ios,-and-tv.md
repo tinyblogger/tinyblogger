@@ -64,7 +64,7 @@ Whether you're using Rumble on your mobile device or TV, the platform offers a s
 
 ---
 
-Discover Rumble's apps today! Download the [Android app](https://play.google.com/store/apps/details?id=com.rumble.bumbles), [iOS app](https://apps.apple.com/us/app/rumble/id1247265870), or explore the [Rumble TV app](https://rumble.com/apps/tv) for your home entertainment needs.
+Discover Rumble's apps today! Download the [Android app](https://play.google.com/store/apps/details?id=com.rumble.battles&pcampaignid=web_share), [iOS app](https://apps.apple.com/us/app/rumble/id1247265870), or explore the [Rumble TV app](https://rumble.com/our-apps) for your home entertainment needs.
 
 Stay updated with Rumble on social media: [Twitter](https://twitter.com/RumbleVideo) | [Facebook](https://www.facebook.com/RumbleVideo).
 
