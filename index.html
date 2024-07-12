@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<!-- Search Bar -->
-<input type="text" id="searchBar" onkeyup="searchPosts()" placeholder="Search for keywords..">
-
-<div id="searchResults"></div>
-
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -26,40 +21,3 @@ layout: default
     </article>
   {% endfor %}
 </div>
-
-<script>
-  function searchPosts() {
-    // Get the search query
-    var input = document.getElementById('searchBar');
-    var filter = input.value.toLowerCase();
-    var results = document.getElementById('searchResults');
-
-    // Clear previous results
-    results.innerHTML = '';
-
-    // Get all posts
-    var posts = [
-      {% for post in site.posts %}
-        {
-          "title": "{{ post.title }}",
-          "url": "{{ post.url }}",
-          "content": "{{ post.content | strip_html | escape }}",
-        },
-      {% endfor %}
-    ];
-
-    // Filter posts by keywords in content
-    var filteredPosts = posts.filter(post => post.content.toLowerCase().includes(filter));
-
-    // Display results
-    if (filteredPosts.length > 0) {
-      filteredPosts.forEach(post => {
-        var resultItem = document.createElement('div');
-        resultItem.innerHTML = '<a href="' + post.url + '">' + post.title + '</a>';
-        results.appendChild(resultItem);
-      });
-    } else {
-      results.innerHTML = 'No posts found.';
-    }
-  }
-</script>
