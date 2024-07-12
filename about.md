@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-date: 2024-07-12
 ---
 
 ## Welcome to Tinyplayerss Blog!
