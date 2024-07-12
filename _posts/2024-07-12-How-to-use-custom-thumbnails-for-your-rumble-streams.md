@@ -26,6 +26,8 @@ To create a template for your streams on Rumble:
 3. Use [Photopea](https://www.photopea.com/) or [GIMP](https://www.gimp.org/) to create your thumbnails.
 4. Upload your thumbnail and save your changes.
 
+![Create Template](/images/Rumble-Custom-Thumbnails/Create%20Template.png)
+
 ### Why Custom Thumbnails Matter
 
 Custom thumbnails play a crucial role in attracting viewers to your Rumble streams. Understanding their effectiveness is key:
