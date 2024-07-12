@@ -1,6 +1,6 @@
 ---
 title: Rumble Embracing Free Speech in Uncensored Streaming
-description: "Rumble"
+description: Rumble
 date: 2024-07-12T19:27:41.120Z
 preview: ""
 tags: []
@@ -8,6 +8,8 @@ categories: []
 type: default
 slug: rumble-embracing-free-speech-uncensored-streaming
 keywords:
+    - free speech
+    - freedom
     - rumble
 ---
 
