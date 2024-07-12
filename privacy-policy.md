@@ -4,8 +4,6 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-# Privacy Policy
-
 ## Introduction
 
 Welcome to our Privacy Policy page! When you use our web site services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. This is important; we hope you will take time to read it carefully.
