@@ -2,6 +2,7 @@
 layout: post
 title: How to Use Custom Thumbnails for Your Rumble Streams (Free Tools)
 date: 2024-07-12
+slug: custom-thumbnails-rumble-streams-free-tools
 ---
 
 ![Rumble Custom Thumbnails](/images/Post-Thumbnails/Rumble Custom Thumbnails.png)
