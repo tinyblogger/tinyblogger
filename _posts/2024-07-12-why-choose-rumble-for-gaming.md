@@ -7,6 +7,10 @@ tags: []
 categories: []
 type: default
 slug: choose-rumble-gaming
+keywords:
+    - Gaming
+    - Gaming Community
+    - Rumble
 ---
 
 ![RumbleForGaming](/images/Post-Thumbnails/RumbleForGaming.png)
