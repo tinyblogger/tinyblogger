@@ -39,14 +39,10 @@ Rumble's Android and iOS apps bring the platform's vibrant community and diverse
 ### Features for Creators
 
 - **Mobile Uploads:** Easily upload videos from your phone, ensuring timely sharing of content.
-  
-- **Analytics and Management:** Monitor video performance and manage your channel on the go.
 
 ### Viewer Experience
 
 - **Personalization:** Customize your feed based on interests and preferences.
-  
-- **Offline Viewing:** Download videos to watch offline, ideal for travel or areas with limited internet access.
 
 ## Rumble TV App
 
@@ -57,10 +53,6 @@ Rumble's TV app extends the platform's experience to larger screens, catering to
 - **High Definition Streaming:** Enjoy high-quality video streaming optimized for TVs.
   
 - **Browse and Discover:** Explore categories and genres easily from your TV screen.
-
-### Family-Friendly Options
-
-- **Parental Controls:** Manage content access for family members with built-in parental control features.
 
 ### Integration with Smart Devices
 
