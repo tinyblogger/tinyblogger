@@ -47,14 +47,14 @@ Looking ahead, Rumble is exploring advanced technologies like AV1 codec support,
 
 ### Pros and Cons
 
-| **Feature**                   | **Rumble**                                        | **Other Platforms**                             |
-|-------------------------------|---------------------------------------------------|-------------------------------------------------|
-| Free Speech                   | Embraces free speech without heavy moderation     | May restrict certain types of content           |
-| Content Diversity             | Supports a wide range of topics and genres        | Often restricts controversial or adult content  |
-| Monetization Opportunities    | Ad revenue sharing, supporter subscriptions       | Similar monetization options, but may have stricter rules |
-| Streaming Quality             | High-quality streams with robust infrastructure   | Quality can vary, may depend on platform policies |
-| Future Technology             | Exploring AV1 support for enhanced streaming     | Less focus on adopting newer video technologies |
-| Community Support             | Encourages community interaction and growth       | Varied community support, may differ per platform|
+| Feature                   | Rumble                                        | Other Platforms                             |
+|---------------------------|-----------------------------------------------|---------------------------------------------|
+| Free Speech               | Embraces free speech without heavy moderation | May restrict certain types of content       |
+| Content Diversity         | Supports a wide range of topics and genres    | Often restricts controversial or adult content |
+| Monetization Opportunities| Ad revenue sharing, supporter subscriptions   | Similar monetization options, but may have stricter rules |
+| Streaming Quality         | High-quality streams with robust infrastructure | Quality can vary, may depend on platform policies |
+| Future Technology         | Exploring AV1 support for enhanced streaming  | Less focus on adopting newer video technologies |
+| Community Support         | Encourages community interaction and growth   | Varied community support, may differ per platform |
 
 Rumble stands out as a platform that prioritizes free speech and content diversity while offering robust monetization opportunities and high-quality streaming capabilities. As it continues to innovate with technologies like AV1 support, Rumble remains a compelling choice for creators looking to express themselves freely and engage with a supportive community.
 
