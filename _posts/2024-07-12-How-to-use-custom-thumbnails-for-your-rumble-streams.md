@@ -4,13 +4,18 @@ Creating custom thumbnails for your Rumble streams doesn't have to cost anything
 
 1. **Photopea**: Photopea is a web-based app that works similarly to Photoshop. It allows you to create and edit images directly in your browser. Visit [Photopea](https://www.photopea.com/) and start a new project. Use its tools to design your thumbnail, incorporating text, images, and effects.
 
+![photopea](/images/Rumble-Custom-Thumbnails/photopea.png)
+
 2. **GIMP**: GIMP is a powerful, open-source image editor available for Windows, macOS, and Linux. Download and install GIMP from [GIMP's official website](https://www.gimp.org/). Once installed, use its features to design and customize your thumbnails with layers, filters, and more.
+
+![gimp](/images/Rumble-Custom-Thumbnails/gimp.png)
 
 ### Create a template / Update your stream.
 
 To create a template for your streams go to:
 1. Rumble Live Streaming [Templates](https://rumble.com/account/content?type=live_templates)
     - at the top right corner Click **Create Template**
+    - 
 
 ### Why Custom Thumbnails Matter
 
