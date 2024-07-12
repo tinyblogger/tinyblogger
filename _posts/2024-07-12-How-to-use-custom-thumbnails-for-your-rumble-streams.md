@@ -23,7 +23,9 @@ Creating custom thumbnails for your Rumble streams doesn't have to cost anything
 To create a template for your streams go to:
 1. Rumble Live Streaming [Templates](https://rumble.com/account/content?type=live_templates)
     - at the top right corner Click **Create Template**
-    - 
+2. By Creating a Template You can Update the Thumbnail for Every Stream or Use Templates with Custom Thumbnails.
+    - Use [Photopea](https://www.photopea.com/) or [GIMP's official website](https://www.gimp.org/) to create Your thumbnails.
+    - Upload Your thumbnail and Then click Save.
 
 ### Why Custom Thumbnails Matter
 
