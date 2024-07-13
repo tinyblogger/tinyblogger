@@ -106,23 +106,7 @@ Streaming on Rumble just got a whole lot easier and more interactive with Rumble
   </div>
 </details>
 
-## Frequently Asked Questions
-
-**Do I need to download anything?**  
-No, RumbleBot is completely cloud-based. You can set it up and start using it in minutes without any downloads.
-
-**How do I use it?**  
-Simply sign up on the RumbleBot website, link your Rumble account, and start customizing your bot with the various features available.
-
-**Is it free?**  
-RumbleBot offers a range of features for free, with premium options available for advanced users.
-
-**How can I contact RumbleBot?**  
-For support and inquiries, you can contact RumbleBot at support@rumble.bot.
-
-**Is this made by Rumble?**  
-RumbleBot is made by KickBot Inc., an independent developer creating tools for the Rumble community.
-
-## Level Up Your Stream Today!
+## Where do You start?
+First go to [Rumble.bot](https://rumble.bot) Then sign Up using your Discord or Google Account and then Go to [Dashboard](https://rumble.bot/dashboard) from here You can customize the Bot or Enable some features for Your Streams!
 
 With RumbleBot, you can take your Rumble streams to the next level. From easy clip generation and custom commands to advanced chat features and text-to-speech, RumbleBot offers everything you need to create a more engaging and professional streaming experience.
