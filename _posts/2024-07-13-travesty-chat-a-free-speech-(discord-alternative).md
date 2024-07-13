@@ -19,13 +19,15 @@ keywords:
     - Discord Alternative
     - Free Speech
     - Free Speech Alternative
+    - Rumble Cloud
+    - Rumble
 ---
 
 ![TravestyChat](/images/Post-Thumbnails/Travesty Chat Thumbnail.png)
 
 # Introducing Travesty Chat: Your Free Speech Social Messaging Platform
 
-Travesty Chat stands out as a robust alternative in the world of social messaging and VoIP platforms. Built on parallel technology, it champions the principles of free speech while offering a seamless communication experience.
+Travesty Chat stands out as a robust alternative in the world of social messaging and VoIP platforms. Hosted on Rumble Cloud, the streaming platform's independent infrastructure, it champions the principles of free speech while offering a seamless communication experience.
 
 ## Features Highlight
 
@@ -41,9 +43,9 @@ Connect with friends, family, and communities through Travesty Chat's intuitive 
 
 Enjoy high-quality voice calls with Travesty Chat's VoIP capabilities. Whether for personal calls or group discussions, experience clear and reliable communication, bridging distances effortlessly.
 
-### Parallel Technology
+### Rumble Cloud Hosting
 
-Powered by cutting-edge parallel technology, Travesty Chat ensures robust performance and security. Experience seamless messaging and voice calls without compromising on privacy.
+Travesty Chat runs on Rumble Cloud, ensuring robust performance and security. Built on Rumble's independent infrastructure, your data remains private and protected.
 
 ## Getting Started
 
@@ -73,3 +75,4 @@ Visit [Travesty Chat](https://travesty.chat) to learn more and start communicati
 **Travesty Chat**
 Where Free Speech Meets Social Messaging
 Follow us on [Twitter](https://twitter.com/travestychat)
+
