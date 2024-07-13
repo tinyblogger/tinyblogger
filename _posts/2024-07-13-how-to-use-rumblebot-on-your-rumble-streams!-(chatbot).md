@@ -27,61 +27,83 @@ Streaming on Rumble just got a whole lot easier and more interactive with Rumble
 
 ## Key Features of RumbleBot
 
-<details>
-  <summary>1. Clip Command</summary>
-  Capture the best moments of your stream effortlessly with the `!clip` command. This feature allows your viewers to generate clips of up to the last 240 seconds of your stream, making it easy to share highlights on social media. No editing required—just instant clips!
+<details class="dropdown">
+  <summary class="dropdown-summary">1. Clip Command</summary>
+  <div class="dropdown-content">
+    Capture the best moments of your stream effortlessly with the `!clip` command. This feature allows your viewers to generate clips of up to the last 240 seconds of your stream, making it easy to share highlights on social media. No editing required—just instant clips!
+  </div>
 </details>
 
-<details>
-  <summary>2. Custom Commands</summary>
-  Enhance viewer interaction by creating custom commands. Share your social media links, Discord server, or any other important information with ease. Custom commands are a great way to keep your audience informed and engaged.
+<details class="dropdown">
+  <summary class="dropdown-summary">2. Custom Commands</summary>
+  <div class="dropdown-content">
+    Enhance viewer interaction by creating custom commands. Share your social media links, Discord server, or any other important information with ease. Custom commands are a great way to keep your audience informed and engaged.
+  </div>
 </details>
 
-<details>
-  <summary>3. AI Text-To-Speech</summary>
-  Bring a new level of interaction to your streams with life-like text-to-speech. Choose from a variety of voices to read out viewer messages, adding a fun and dynamic element to your broadcasts. With over 500,000 TTS messages already sent, this feature is a hit with streamers and viewers alike.
+<details class="dropdown">
+  <summary class="dropdown-summary">3. AI Text-To-Speech</summary>
+  <div class="dropdown-content">
+    Bring a new level of interaction to your streams with life-like text-to-speech. Choose from a variety of voices to read out viewer messages, adding a fun and dynamic element to your broadcasts. With over 500,000 TTS messages already sent, this feature is a hit with streamers and viewers alike.
+  </div>
 </details>
 
-<details>
-  <summary>4. Timed Messages</summary>
-  Automate reminders and announcements with timed messages. Schedule regular updates to promote your socials, Discord server, or any other important information, ensuring your viewers never miss out on what's important.
+<details class="dropdown">
+  <summary class="dropdown-summary">4. Timed Messages</summary>
+  <div class="dropdown-content">
+    Automate reminders and announcements with timed messages. Schedule regular updates to promote your socials, Discord server, or any other important information, ensuring your viewers never miss out on what's important.
+  </div>
 </details>
 
-<details>
-  <summary>5. Chat Alerts</summary>
-  Keep your viewers informed about new followers and subscribers with real-time chat alerts. Every time someone follows or subscribes to your channel, RumbleBot will send an alert in the chat, helping to build a sense of community and excitement.
+<details class="dropdown">
+  <summary class="dropdown-summary">5. Chat Alerts</summary>
+  <div class="dropdown-content">
+    Keep your viewers informed about new followers and subscribers with real-time chat alerts. Every time someone follows or subscribes to your channel, RumbleBot will send an alert in the chat, helping to build a sense of community and excitement.
+  </div>
 </details>
 
-<details>
-  <summary>6. Chat Widget</summary>
-  Display a highly customizable chat widget on your stream. With a static URL and no ongoing configuration required, the chat widget is easy to set up and use. Choose from preconfigured themes or create your own using the CSS editor for a truly personalized look.
+<details class="dropdown">
+  <summary class="dropdown-summary">6. Chat Widget</summary>
+  <div class="dropdown-content">
+    Display a highly customizable chat widget on your stream. With a static URL and no ongoing configuration required, the chat widget is easy to set up and use. Choose from preconfigured themes or create your own using the CSS editor for a truly personalized look.
+  </div>
 </details>
 
 ## Frequently Asked Questions
 
-<details>
-  <summary>Do I need to download anything?</summary>
-  No, RumbleBot is completely cloud-based. You can set it up and start using it in minutes without any downloads.
+<details class="dropdown">
+  <summary class="dropdown-summary">Do I need to download anything?</summary>
+  <div class="dropdown-content">
+    No, RumbleBot is completely cloud-based. You can set it up and start using it in minutes without any downloads.
+  </div>
 </details>
 
-<details>
-  <summary>How do I use it?</summary>
-  Simply sign up on the RumbleBot website, link your Rumble account, and start customizing your bot with the various features available.
+<details class="dropdown">
+  <summary class="dropdown-summary">How do I use it?</summary>
+  <div class="dropdown-content">
+    Simply sign up on the RumbleBot website, link your Rumble account, and start customizing your bot with the various features available.
+  </div>
 </details>
 
-<details>
-  <summary>Is it free?</summary>
-  RumbleBot offers a range of features for free, with premium options available for advanced users.
+<details class="dropdown">
+  <summary class="dropdown-summary">Is it free?</summary>
+  <div class="dropdown-content">
+    RumbleBot offers a range of features for free, with premium options available for advanced users.
+  </div>
 </details>
 
-<details>
-  <summary>How can I contact RumbleBot?</summary>
-  For support and inquiries, you can contact RumbleBot at [support@rumble.bot](mailto:support@rumble.bot).
+<details class="dropdown">
+  <summary class="dropdown-summary">How can I contact RumbleBot?</summary>
+  <div class="dropdown-content">
+    For support and inquiries, you can contact RumbleBot at [support@rumble.bot](mailto:support@rumble.bot).
+  </div>
 </details>
 
-<details>
-  <summary>Is this made by Rumble?</summary>
-  RumbleBot is made by KickBot Inc., an independent developer creating tools for the Rumble community.
+<details class="dropdown">
+  <summary class="dropdown-summary">Is this made by Rumble?</summary>
+  <div class="dropdown-content">
+    RumbleBot is made by KickBot Inc., an independent developer creating tools for the Rumble community.
+  </div>
 </details>
 
 ## Frequently Asked Questions
