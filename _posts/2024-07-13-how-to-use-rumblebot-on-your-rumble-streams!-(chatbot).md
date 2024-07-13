@@ -9,4 +9,4 @@ type: default
 slug: rumblebot-rumble-streams-chatbot
 ---
 
-![RumbleBot](<RumbleBot thumbnail.png>)
+![RumbleBot](/images/Post-Thumbnails/RumbleBot thumbnail.png)
