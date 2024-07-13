@@ -25,6 +25,12 @@ We're thrilled to announce that @rumblevideo is making its way to @Xbox! This mo
 - **Current Features**: Initially, the app release will not include the ability to stream directly from the console.
 - **Future Development**: Streaming from the console is on the roadmap for future development, promising more interactive possibilities for gamers and content creators alike.
 
+## (New update)
+
+![RumbleRick Tweeted its True](/images/Rumble-And-Xbox/Rick%20Posted%20its%20True.png)
+
+RumbleRick (Rick Racala) Posted about the Xbox Collaboration its Official, Expect Rumble to be Partnering with Xbox (Microsoft) to Bring Console Gamers to Rumble!
+
 ## Stay Tuned for Updates
 
 This post will be updated as more information becomes available. Bookmark this page to stay informed about the latest developments regarding Rumble's journey to Xbox!
