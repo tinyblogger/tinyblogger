@@ -25,7 +25,7 @@ We're thrilled to announce that @rumblevideo is making its way to @Xbox! This mo
 - **Current Features**: Initially, the app release will not include the ability to stream directly from the console.
 - **Future Development**: Streaming from the console is on the roadmap for future development, promising more interactive possibilities for gamers and content creators alike.
 
-## (New update)
+## (New update) at 14 Jul 2024.
 
 ![RumbleRick Tweeted its True](/images/Rumble-And-Xbox/Rick%20Posted%20its%20True.png)
 
