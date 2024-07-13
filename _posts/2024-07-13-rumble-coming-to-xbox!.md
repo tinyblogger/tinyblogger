@@ -31,7 +31,7 @@ This post will be updated as more information becomes available. Bookmark this p
 
 Join the #RumbleTakeover and be part of the excitement as we bring Rumble's innovative platform to your gaming console.
 
-[![Rumble](https://example.com/rumble-logo.png)](https://rumble.com)
+[![Rumble](https://companieslogo.com/img/orig/RUM_BIG-7db8b8d2.png?t=1720244493)](https://rumble.com)
 
 Learn more about Rumble and join the community at [Rumble.com](https://rumble.com).
 
