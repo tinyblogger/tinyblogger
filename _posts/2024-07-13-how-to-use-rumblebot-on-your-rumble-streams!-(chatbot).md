@@ -6,4 +6,7 @@ preview: ""
 tags: []
 categories: []
 type: default
+slug: rumblebot-rumble-streams-chatbot
 ---
+
+![RumbleBot](<RumbleBot thumbnail.png>)
