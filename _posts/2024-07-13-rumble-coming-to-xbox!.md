@@ -31,6 +31,8 @@ We're thrilled to announce that @rumblevideo is making its way to @Xbox! This mo
 
 RumbleRick (Rick Racala) Posted about the Xbox Collaboration its Official, Expect Rumble to be Partnering with Xbox (Microsoft) to Bring Console Gamers to Rumble!
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s true <a href="https://t.co/Zs1nHCjX01">https://t.co/Zs1nHCjX01</a> <a href="https://t.co/CJXA1thSyb">pic.twitter.com/CJXA1thSyb</a></p>&mdash; Rick Racela (@ric_rac) <a href="https://twitter.com/ric_rac/status/1811943216683327952?ref_src=twsrc%5Etfw">July 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Stay Tuned for Updates
 
 This post will be updated as more information becomes available. Bookmark this page to stay informed about the latest developments regarding Rumble's journey to Xbox!
