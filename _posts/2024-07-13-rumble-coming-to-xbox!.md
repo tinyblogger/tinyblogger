@@ -6,6 +6,11 @@ preview: ""
 tags: []
 categories: []
 type: default
+slug: rumble-coming-xbox
+keywords:
+    - Rumble
+    - Xbox
+    - Rumble App
 ---
 
 ![RumbleAndXbox](/images/Post-Thumbnails/Rumble and Xbox.png)
