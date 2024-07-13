@@ -118,7 +118,7 @@ Simply sign up on the RumbleBot website, link your Rumble account, and start cus
 RumbleBot offers a range of features for free, with premium options available for advanced users.
 
 **How can I contact RumbleBot?**  
-For support and inquiries, you can contact RumbleBot at [support@rumble.bot](mailto:support@rumble.bot).
+For support and inquiries, you can contact RumbleBot at support@rumble.bot.
 
 **Is this made by Rumble?**  
 RumbleBot is made by KickBot Inc., an independent developer creating tools for the Rumble community.
