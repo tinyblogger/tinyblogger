@@ -67,7 +67,7 @@ Travesty Chat offers a refreshing alternative in today's crowded messaging platf
 
 Explore the possibilities with Travesty Chat today. Embrace free speech, connect with others, and experience a new era of social messaging and VoIP.
 
-[![Travesty Chat](https://example.com/travesty-chat-logo.png)](https://travesty.chat)
+[![Travesty Chat](https://travesty.chat/assets/logo-white.png)](https://travesty.chat)
 
 Visit [Travesty Chat](https://travesty.chat) to learn more and start communicating on your terms.
 
