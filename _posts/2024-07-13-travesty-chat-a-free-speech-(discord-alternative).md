@@ -23,7 +23,7 @@ keywords:
     - Rumble
 ---
 
-![TravestyChat](/images/Post-Thumbnails/Travesty Chat Thumbnail.png)
+![TravestyChat](/images/Post-Thumbnails/Travesty.chat Platform.png)
 
 # Introducing Travesty Chat: Your Free Speech Social Messaging Platform
 
