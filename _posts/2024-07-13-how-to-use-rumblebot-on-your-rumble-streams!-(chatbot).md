@@ -95,7 +95,7 @@ Streaming on Rumble just got a whole lot easier and more interactive with Rumble
 <details class="dropdown">
   <summary class="dropdown-summary">How can I contact RumbleBot?</summary>
   <div class="dropdown-content">
-    For support and inquiries, you can contact RumbleBot at [support@rumble.bot](mailto:support@rumble.bot).
+    For support and inquiries, you can contact RumbleBot at support@rumble.bot.
   </div>
 </details>
 
