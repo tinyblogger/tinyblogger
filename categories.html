@@ -8,7 +8,7 @@ title: "Categories"
 <div class="categories-list">
   <ul>
     {% for category in site.categories %}
-      <li><a href="{{ site.baseurl }}/categories/{{ category | first }}">{{ category | first | capitalize }}</a></li>
+      <li><a href="{{ site.baseurl }}/category/{{ category[0] | slugify }}">{{ category[0] | capitalize }}</a></li>
     {% endfor %}
   </ul>
 </div>
