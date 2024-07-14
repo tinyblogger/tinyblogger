@@ -56,6 +56,11 @@ Slow mode helps manage fast-moving chats by limiting how often users can post me
   - Go to your live stream.
   - Click the 3 Dots menu and Select Slow Mode.
 
+- **How to Block Users From Your Streams**:
+  - Go to your Rumble Dashboard.
+  - Under "Moderation" section.
+  - Go to "Mute" enter the Offending Users "Username" to Mute.
+
 ### Best Practices for Chat Moderation
 
 In addition to using Rumble’s tools, here are some best practices to ensure effective chat moderation:
