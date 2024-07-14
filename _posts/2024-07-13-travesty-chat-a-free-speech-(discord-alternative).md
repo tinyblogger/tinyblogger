@@ -52,7 +52,7 @@ Travesty Chat runs on Rumble Cloud, ensuring robust performance and security. Bu
 Getting started with Travesty Chat is easy:
 
 1. **Sign Up**: Create your account on [Travesty Chat](https://travesty.chat).
-2. **Download**: Get the app for your device - available for Windows, macOS, Android, and iOS.
+2. **Website**: Go to [travesty.chat](https://travesty.chat) and Sign-Up for Alpha Tester, Beta Tester, Stable (Get Updates), Depending on which one You choose you may have to Wait a lot longer before you can be accepted to try out the Platform.
 3. **Start Communicating**: Begin messaging and making calls with your contacts immediately.
 
 ## Why Choose Travesty Chat?
