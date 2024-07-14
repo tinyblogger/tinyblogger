@@ -4,7 +4,7 @@ description: ""
 date: 2024-07-13T16:47:17.779Z
 preview: ""
 tags: []
-categories: []
+categories: [rumble-news]
 type: default
 slug: rumble-coming-xbox
 keywords:
