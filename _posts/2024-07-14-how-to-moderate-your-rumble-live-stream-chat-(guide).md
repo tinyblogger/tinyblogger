@@ -35,8 +35,8 @@ Rumble offers several tools to help streamers moderate their live chats effectiv
 Rumble’s chat filters allow you to automatically block certain words or phrases from appearing in your chat. This is useful for preventing spam, hate speech, or any other undesirable content.
 
 - **How to Set Up Chat Filters**:
-  - Go to your Rumble account settings.
-  - Navigate to the “Chat Settings” section.
+  - Go to your Rumble dashboard.
+  - Navigate to the “Moderation” section.
   - Add the words or phrases you want to filter out.
 
 ### 2. **Moderators**
@@ -44,22 +44,17 @@ Rumble’s chat filters allow you to automatically block certain words or phrase
 Appointing moderators can help you manage your chat more effectively. Moderators can monitor chat activity and take actions such as muting or banning users who violate your chat rules.
 
 - **How to Add Moderators**:
-  - Go to your Rumble channel dashboard.
-  - Click on “Moderators” under the “Community” tab.
-  - Enter the usernames of the people you want to appoint as moderators and assign them appropriate permissions.
+  - Go to your Rumble dashboard.
+  - Click on “Moderation” under the “Moderators” tab.
+  - Enter the usernames of the people you want to appoint as moderators.
 
 ### 3. **Slow Mode**
 
 Slow mode helps manage fast-moving chats by limiting how often users can post messages. This gives moderators more time to review messages and helps prevent spam.
 
 - **How to Enable Slow Mode**:
-  - Go to your live stream settings.
-  - Find the “Chat Options” section.
-  - Toggle on “Slow Mode” and set the desired time interval between messages.
-
-- **How to Report Users**:
-  - Click on the username of the offending user in the chat.
-  - Select “Report” and provide the necessary details.
+  - Go to your live stream.
+  - Click the 3 Dots menu and Select Slow Mode.
 
 ### Best Practices for Chat Moderation
 
