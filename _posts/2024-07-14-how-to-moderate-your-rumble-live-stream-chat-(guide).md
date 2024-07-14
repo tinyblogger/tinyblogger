@@ -30,7 +30,7 @@ Moderating your live chat is crucial to:
 
 Rumble offers several tools to help streamers moderate their live chats effectively. Here’s a rundown of these tools:
 
-#### 1. **Chat Filters**
+### 1. **Chat Filters**
 
 Rumble’s chat filters allow you to automatically block certain words or phrases from appearing in your chat. This is useful for preventing spam, hate speech, or any other undesirable content.
 
@@ -39,7 +39,7 @@ Rumble’s chat filters allow you to automatically block certain words or phrase
   - Navigate to the “Chat Settings” section.
   - Add the words or phrases you want to filter out.
 
-#### 2. **Moderators**
+### 2. **Moderators**
 
 Appointing moderators can help you manage your chat more effectively. Moderators can monitor chat activity and take actions such as muting or banning users who violate your chat rules.
 
@@ -48,7 +48,7 @@ Appointing moderators can help you manage your chat more effectively. Moderators
   - Click on “Moderators” under the “Community” tab.
   - Enter the usernames of the people you want to appoint as moderators and assign them appropriate permissions.
 
-#### 3. **Slow Mode**
+### 3. **Slow Mode**
 
 Slow mode helps manage fast-moving chats by limiting how often users can post messages. This gives moderators more time to review messages and helps prevent spam.
 
@@ -65,15 +65,15 @@ Slow mode helps manage fast-moving chats by limiting how often users can post me
 
 In addition to using Rumble’s tools, here are some best practices to ensure effective chat moderation:
 
-#### Set Clear Rules
+### Set Clear Rules
 
 Establish clear rules for your chat and make them visible to all viewers. This can include guidelines on acceptable language, behavior, and the types of discussions allowed.
 
-#### Communicate with Your Moderators
+### Communicate with Your Moderators
 
 Regularly communicate with your moderators to ensure they understand your expectations and guidelines. Provide them with the necessary training and support to handle difficult situations.
 
-#### Engage with Your Community
+### Engage with Your Community
 
 Actively engage with your viewers and encourage positive interactions. Lead by example and foster a respectful and inclusive community.
 
