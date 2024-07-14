@@ -50,3 +50,4 @@ exclude:
 collections:
   categories:
     output: true
+    permalink: /categories/:name/
