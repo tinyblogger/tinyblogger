@@ -13,6 +13,8 @@ keywords:
     - Guide
 ---
 
+![RumbleModeration](/images/Post-Thumbnails/Rumble%20Moderating%20Chat.png)
+
 ## Showing You how to Moderate your Rumble Chat
 
 Rumble, the free speech streaming platform, has become a popular choice for many streamers who value the freedom to express themselves without the heavy moderation found on other platforms. However, with this freedom comes the responsibility of ensuring that your live chat remains a welcoming and safe space for all viewers. Unmoderated chats can quickly devolve into chaos, with misuse of free speech creating a toxic environment. This guide will provide you with the tools and know-how to effectively manage your Rumble live stream chat.
@@ -55,10 +57,6 @@ Slow mode helps manage fast-moving chats by limiting how often users can post me
   - Find the “Chat Options” section.
   - Toggle on “Slow Mode” and set the desired time interval between messages.
 
-#### 4. **Reporting Tools**
-
-Rumble provides tools for reporting abusive behavior. Encourage your viewers to use these tools to report any inappropriate content they encounter.
-
 - **How to Report Users**:
   - Click on the username of the offending user in the chat.
   - Select “Report” and provide the necessary details.
@@ -78,10 +76,6 @@ Regularly communicate with your moderators to ensure they understand your expect
 #### Engage with Your Community
 
 Actively engage with your viewers and encourage positive interactions. Lead by example and foster a respectful and inclusive community.
-
-#### Review Chat Logs
-
-Periodically review chat logs to identify any recurring issues and adjust your moderation strategies accordingly.
 
 ### Conclusion
 
