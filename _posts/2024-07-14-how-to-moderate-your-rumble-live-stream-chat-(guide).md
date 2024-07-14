@@ -36,7 +36,7 @@ Rumble’s chat filters allow you to automatically block certain words or phrase
 
 - **How to Set Up Chat Filters**:
   - Go to your Rumble dashboard.
-  - Navigate to the “Moderation” section.
+  - Navigate to the “[Moderation](https://rumble.com/account/moderation/flagged-phrases)” section.
   - Add the words or phrases you want to filter out.
 
 ### 2. **Moderators**
@@ -45,7 +45,7 @@ Appointing moderators can help you manage your chat more effectively. Moderators
 
 - **How to Add Moderators**:
   - Go to your Rumble dashboard.
-  - Click on “Moderation” under the “Moderators” tab.
+  - Click on “Moderation” under the “[Moderators](https://rumble.com/account/moderation/moderators)” tab.
   - Enter the usernames of the people you want to appoint as moderators.
 
 ### 3. **Slow Mode**
@@ -59,7 +59,7 @@ Slow mode helps manage fast-moving chats by limiting how often users can post me
 - **How to Block Users From Your Streams**:
   - Go to your Rumble Dashboard.
   - Under "Moderation" section.
-  - Go to "Mute" enter the Offending Users "Username" to Mute.
+  - Go to "[Mute](https://rumble.com/account/moderation/muting)" enter the Offending Users "Username" to Mute.
 
 ### Best Practices for Chat Moderation
 
