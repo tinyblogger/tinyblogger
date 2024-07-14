@@ -46,3 +46,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  categories:
+    output: true
